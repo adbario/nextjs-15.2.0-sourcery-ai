@@ -1,4 +1,4 @@
-# Next.js 15.2 POC with AI-driven contextual feedback by CodeRabbit [Sourcery AI](https://sourcery.ai/)
+# Next.js 15.2 POC with AI-driven contextual feedback by [Sourcery AI](https://sourcery.ai/)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
